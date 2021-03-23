@@ -3,7 +3,6 @@
 <body>
 
 <?php
-$txt = "PHP";
 echo "Hello World";
 ?>
 
